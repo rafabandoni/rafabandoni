@@ -11,8 +11,8 @@
 
 <div align="left">
   <a href="https://github.com/rafabandoni">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rafabandoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabandoni&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafabandoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabandoni&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
 ##
