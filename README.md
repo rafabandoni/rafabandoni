@@ -1,12 +1,12 @@
-## Olá! Sou Rafael Bandoni 😊
-(Ele/dele)  
+## Hello! I'm Rafael Bandoni 😊
+(He/Him)  
 
-### Sobre mim:
-- 👨‍💻 Atualmente, trabalho como data developer na CI&T - uma empresa de tecnologia que nasceu em Campinas - SP e que hoje é uma multinacional.
-- 📚 Estou estudando desenvolvimento front-end, C e Java, além de um pouco de teoria da computação.
-- 🎲 Tenho mais experiência e posso ajudar com python para ciência de dados e SQL.
-- 🤖 Você me encontra em todas as redes sociais como @rafabandoni e também pode visitar meu <a href="https://www.rafaelbandoni.com.br">site</a>.
-- 🚀 Fun fact: Sou publicitário de formação e atuei nessa área por 7 anos, até que decidi fazer uma transição de carreira para a área tech.
+### a few things about me:
+- 👨‍💻 I work as data developer (science and engineering) at CI&T, a tech company borned in Campinas - SP (Brazil) and now present in a handful of countries around the world.
+- 📚 I'm specializing myself in python for data science and engineering, and I've been studying front-end development, C, Java and also computation theory.
+- 🎲 I have more experience and can help more with python and SQL.
+- 🤖 You can find me on all social networks as @rafabandoni and also visit my <a href="https://www.rafaelbandoni.com.br">website</a>.
+- 🚀 Fun fact: My bachelor's degree is in advertising, and I worked on this are for 7 years, untill I decided to make a career transition to data.
 
 
 <div align="center">
