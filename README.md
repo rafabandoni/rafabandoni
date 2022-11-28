@@ -1,10 +1,10 @@
 ## Hello! I'm Rafael Bandoni 😊
 (He/Him)  
 
-### a few things about me:
-- 👨‍💻 I work as data developer (science and engineering) at CI&T, a tech company borned in Campinas - SP (Brazil) and now present in a handful of countries around the world.
-- 📚 I'm specializing myself in python for data science and engineering, and I've been studying front-end development, C, Java and also computation theory.
-- 🎲 I have more experience and can help more with python and SQL.
+### A few things about me:
+- 👨‍💻 I work as data developer (science and engineering) at CI&T, a tech company borned in Campinas - SP (Brazil) and now acting in a handful of countries around the world. I've already worked with major clients from Brazil, US and Europe.
+- 📚 I'm specializing myself in python for data science and engineering, and also been studying front-end development, C, Java and also computation theory.
+- 🎲 I have more experience and can help with python and SQL.
 - 🤖 You can find me on all social networks as @rafabandoni and also visit my <a href="https://www.rafaelbandoni.com.br">website</a>.
 - 🚀 Fun fact: My bachelor's degree is in advertising, and I worked on this are for 7 years, untill I decided to make a career transition to data.
 
