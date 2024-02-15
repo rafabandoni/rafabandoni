@@ -8,12 +8,6 @@
 - 🌐 I've also dabbled in front-end development, Java, and C out of curiosity.
 - 🤖 You can find me on all social networks as @rafabandoni and also visit my [youtube channel](https://www.youtube.com/@rafaelbandoni).
 - 🚀 Fun fact: My background is in advertising, where I worked for 7 years before transitioning into data engineering.
-
-<div align="center">
-  <a href="https://github.com/rafabandoni">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=rafabandoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabandoni&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
   
 ##
 
