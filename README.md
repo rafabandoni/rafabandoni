@@ -2,12 +2,12 @@
 (He/Him)  
 
 ### A few things about me:
-- 👨‍💻 I work as data developer (science and engineering) at CI&T, a tech company borned in Campinas - SP (Brazil) and now acting in a handful of countries around the world. I've already worked with major clients from Brazil, US and Europe.
-- 📚 I'm specializing myself in python for data science and engineering, and also been studying front-end development, C, Java and also computation theory.
-- 🎲 I have more experience and can help with python and SQL.
-- 🤖 You can find me on all social networks as @rafabandoni and also visit my <a href="https://www.rafaelbandoni.com.br">website</a>.
-- 🚀 Fun fact: My bachelor's degree is in advertising, and I worked on this are for 7 years, untill I decided to make a career transition to data.
-
+- 👨‍💻 I work as a data developer engineer at CI&T, a tech company based in Campinas - SP (Brazil) and now operating globally. I've collaborated with major clients across Brazil, the US, and Europe.
+- 📚 I'm specialized in Python for data engineering and have hands-on experience with cloud technologies such as Azure and GCP.
+- 🎲 I have experience in data architecture and databases (relational and non-relational), which are my primary areas of expertise.
+- 🌐 I've also dabbled in front-end development, Java, and C out of curiosity.
+- 🤖 You can find me on all social networks as @rafabandoni and also visit my [youtube channel](https://www.youtube.com/@rafaelbandoni).
+- 🚀 Fun fact: My background is in advertising, where I worked for 7 years before transitioning into data engineering.
 
 <div align="center">
   <a href="https://github.com/rafabandoni">
@@ -16,9 +16,9 @@
 </div>
   
 ##
-  
+
 <div> 
-  <a href = "mailto:rafagbandoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:rafagbandoni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafabandoni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	<a href="https://www.twitch.tv/rafabandoni" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafabandoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
