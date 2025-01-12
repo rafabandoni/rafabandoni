@@ -2,10 +2,9 @@
 (He/Him)  
 
 ### A few things about me:
-- 👨‍💻 I work as a data developer engineer at CI&T, a tech company based in Campinas - SP (Brazil) and now operating globally. I've collaborated with major clients across Brazil, the US, and Europe.
-- 📚 I'm specialized in Python for data engineering and have hands-on experience with cloud technologies such as Azure and GCP.
-- 🎲 I have experience in data architecture and databases (relational and non-relational), which are my primary areas of expertise.
-- 🌐 I've also dabbled in front-end development, Java, and C out of curiosity.
+- 👨‍💻 I work as a data scientist at CI&T, a tech company based in Campinas - SP (Brazil) and now operating globally. I've collaborated with major clients across Brazil, the US, and Europe.
+- 📚 I'm specialized in Python for data science and engineering, and have hands-on experience with cloud technologies such as Azure and GCP.
+- 🎲 I have experience in data modeling, and been working with libraries such as pandas, matplotlib, scikit-learn, and also machine learning libraries as XGBoost and optuna.
 - 🤖 You can find me on all social networks as @rafabandoni and also visit my [youtube channel](https://www.youtube.com/@rafaelbandoni).
 - 🚀 Fun fact: My background is in advertising, where I worked for 7 years before transitioning into data engineering.
   
